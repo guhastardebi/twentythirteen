@@ -1,4 +1,0 @@
-twentythirteen
-==============
-
-wordpress theme
