@@ -1,8 +1,5 @@
-$mkdir ~/twentythirteen
+TWENTY THIRTEEN
+=================
 
-$cd ~/twentythirteen
-
-$git init
-
-$touch README
-
+wordpress theme
+-----------------
